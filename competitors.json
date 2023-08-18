@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "Bryan",
+    "lastName": "Wilson",
+    "gender": "Male",
+    "birthdate": "08/10/1993",
+    "weight": "205",
+    "reach": "75 inches"
+  },
+  {
+    "firstName": "Devin",
+    "lastName": "Williams",
+    "gender": "Male",
+    "birthdate": "03/18/1990",
+    "weight": "135",
+    "reach": "77 inches"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Pratt",
+    "gender": "Male",
+    "birthdate": "01/31/1996",
+    "weight": "170",
+    "reach": "73 inches"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Chafe",
+    "gender": "Male",
+    "birthdate": "12/12/1995",
+    "weight": "265",
+    "reach": "73 inches"
+  },
+  {
+    "firstName": "Dean",
+    "lastName": "Clarke",
+    "gender": "Male",
+    "birthdate": "06/15/1991",
+    "weight": "155",
+    "reach": "73 inches"
+  }
+]
